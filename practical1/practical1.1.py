@@ -8,3 +8,5 @@ print("The division of %d and %d is %f" % (a, b, a / b))
 print("The exponent of %d and %d is %d" % (a, b, a**b))
 print("The mod of %d and %d is %d" % (a, b, a % b))
 print("The floor of %d and %d is %d" % (a, b, a // b))
+
+print("\nYash Gupta\t23BCS11317")
