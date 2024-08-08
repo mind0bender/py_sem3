@@ -17,3 +17,7 @@
 - Assignment Operators
 - Logical Operators
 - Bitwise Operators
+
+## Practical 2:
+
+-
