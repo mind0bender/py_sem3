@@ -1,3 +1,5 @@
+from time import sleep
+
 n: int = int(input("Enter number: "))
 s: int = 0
 
@@ -13,3 +15,5 @@ if s == n:
     print(f"{n} is a perfect number")
 else:
     print(f"{n} is not a perfect number")
+
+sleep(1000)
